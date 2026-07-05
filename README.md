@@ -111,11 +111,7 @@ src/
 | `POST` | `/api/chat` | Ask a question (`{ "question": "..." }`) |
 | `GET` | `/api/documents` | List indexed documents |
 
-## CV Bullet Points
 
-- Built a RAG document Q&A system with Next.js and Groq, featuring PDF ingestion, local embedding-based retrieval, and citation-backed answers.
-- Implemented a full-stack AI pipeline: chunking, vector search, prompt engineering, and REST API endpoints — with zero paid LLM cost for embeddings.
-- Designed a clean demo UI for uploading documents and chatting with source-level transparency.
 
 ## License
 
